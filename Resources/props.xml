@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>  
+	<key>props-tank.png</key>  
+    <string>加40滴血</string> 
+ 
+    <key>props-protect.png</key>  
+    <string>一件保护物品免疫子弹伤害，两件可以反弹子弹并产生“日炎”效果</string>
+  
+    <key>props-start.png</key>  
+    <string>射速+1，达到极限时附带冰冻效果</string> 
+
+	<key>props-spade.png</key>  
+    <string>累计获得两件后玩家1试试按下k键，玩家2数字键1选择图块建造</string>
+
+	<key>props-mine.png</key>  
+    <string>让地图上的敌人都消失吧</string>
+	
+	<key>props-timer.png</key>  
+    <string>让地图上的敌人都静止吧</string>
+	
+	<key>xing1.png</key>  
+    <string>星星， 你个大**</string>
+</dict>  
